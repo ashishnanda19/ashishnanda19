@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashish ;)!
+# 👋 Hi, I'm Ashish ;)
 **CS Undergrad | Web Developer | Free Time Singer**
 
 Third year CS student at Manipal University Jaipur who codes by day and plays guitar by night. I build full-stack web apps, grind LeetCode for fun, and occasionally debug with emotional support from my music.
