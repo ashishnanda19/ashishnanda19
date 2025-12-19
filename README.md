@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashish ;)
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish+Kumar+Nanda)](https://git.io/typing-svg)
 **CS Undergrad | Web Developer | Free Time Singer**
 
 Third year CS student at Manipal University Jaipur who codes by day and plays guitar by night. I build full-stack web apps, grind LeetCode for fun, and occasionally debug with emotional support from my music.
