@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish+Kumar+Nanda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish)](https://git.io/typing-svg)
 
 **CS Undergrad | Web Developer | Free Time Singer**
 
