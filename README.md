@@ -71,7 +71,7 @@ I love learning new tech, solving problems, and bringing ideas to life — prefe
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
-
+<!--
 
 # <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Data charts looping" width="35"/> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashishnanda19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -79,7 +79,7 @@ I love learning new tech, solving problems, and bringing ideas to life — prefe
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnanda19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!--
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashishnanda19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -93,4 +93,5 @@ I love learning new tech, solving problems, and bringing ideas to life — prefe
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 -->
