@@ -4,7 +4,7 @@
 
 Third year CS student at Manipal University Jaipur who codes by day and plays guitar by night. I build full-stack web apps, grind LeetCode for fun, and occasionally debug with emotional support from my music.
 
-I love learning new tech, solving problems, and bringing ideas to life, preferably with clean code and a good playlist. If you need someone who can write code and hit high notes, I'm your person.
+I love learning new tech, solving problems and bringing ideas to life, preferably with clean code and a good playlist. If you need someone who can write code and hit high notes, I'm your person.
 
 
 ## 🌐 Socials:
