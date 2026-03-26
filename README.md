@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish+Kumar+Nanda)](https://git.io/typing-svg)
 
 <p align="center">
   <b>CS Undergrad | Web Developer | Free Time Singer</b>
@@ -16,17 +16,21 @@
   </a>
 
   <!-- X (Twitter) -->
- <a href="https://x.com/ashish19n" target="_blank">
+<a href="https://x.com/ashish19n" target="_blank">
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
-    width="40"
+    src="https://cdn.simpleicons.org/x/000000"
+    width="27"
     style="background-color:white; padding:6px; border-radius:8px;"
   />
 </a>
 
   <!-- LeetCode -->
   <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+   <img
+     src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+     width="31.5"
+     style="background-color:grey; padding:4px; border-radius:8px;"
+   />
   </a>
 </p>
 
