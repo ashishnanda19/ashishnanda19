@@ -15,10 +15,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
   <a href="https://x.com/ashish19n" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+    <img src="https://skillicons.dev/icons?i=x" width="40"/>
   </a>
   <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
-    <img src="https://skillicons.dev/icons?i=behance" width="40"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
   </a>
 </p>
 
@@ -35,6 +35,8 @@
 
 
 ---
+
+<!--
 
 ## 📊 GitHub Stats  
 <div align="center">
