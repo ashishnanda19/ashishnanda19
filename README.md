@@ -20,7 +20,7 @@ I love learning new tech, solving problems and bringing ideas to life, preferabl
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c++,java,python,js,react,html,css,tailwind,,node.js,express.js,mongodb,mysql,postman,git,supabase,vercel,render,firebase,docker,aws,redis,jenkins" />
+  <img src="https://skillicons.dev/icons?i=c++,java,python,js,react,html,css,tailwind,node,express,mongodb,mysql,postman,git,supabase,vercel,render,firebase,docker,aws,redis,jenkins" />
 </p>
 
 <!--
