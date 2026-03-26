@@ -23,7 +23,7 @@
   <a href="https://x.com/ashish19n" target="_blank">
     <img 
       src="https://cdn.simpleicons.org/x/ffffff"
-      width="40"
+      width="38"
       style="background-color:#000000; padding:8px; border-radius:10px;"
     />
   </a>
@@ -32,7 +32,7 @@
   <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
     <img 
       src="https://cdn.simpleicons.org/leetcode/FFA116"
-      width="40"
+      width="38"
       style="background-color:#1e1e1e; padding:8px; border-radius:10px;"
     />
   </a>
