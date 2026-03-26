@@ -1,30 +1,56 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish)](https://git.io/typing-svg)
 
-**CS Undergrad | Web Developer | Free Time Singer**
+<p align="center">
+  <b>CS Undergrad | Web Developer | Free Time Singer</b>
+</p>
 
-Third year CS student at Manipal University Jaipur who codes by day and plays guitar by night. I build full-stack web apps, grind LeetCode for fun, and occasionally debug with emotional support from my music.
+---
 
-I love learning new tech, solving problems and bringing ideas to life, preferably with clean code and a good playlist. If you need someone who can write code and hit high notes, I'm your person.
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashishnanda19/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/ashish19nanda/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+  <a href="https://x.com/ashish19n" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
+    <img src="https://skillicons.dev/icons?i=behance" width="40"/>
+  </a>
+</p>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ashish19nanda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishnanda19)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ashish19n)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashk1911.n@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashishnanda19)
-
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Cloud tech" width="35"/> Tech Stacks:
+<!-- ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Cloud tech" width="35"/> Tech Stacks: -->
 
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,railway,firebase,docker,aws,redis,jenkins" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins" />
 </p>
 
-<!--
 
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnanda19&layout=compact&theme=tokyonight"/>
+
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ashishnanda19&theme=tokyonight"/>
+
+</div>
+
+---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishnanda19&show_icons=true&locale=en" alt="Vidhiisaxena" /></p>
+
+---
+
+<!--
 
 ###  Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
