@@ -16,9 +16,13 @@
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/ashish19n" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
-  </a>
+ <a href="https://x.com/ashish19n" target="_blank">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
+    width="40"
+    style="background-color:white; padding:6px; border-radius:8px;"
+  />
+</a>
 
   <!-- LeetCode -->
   <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
