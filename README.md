@@ -1,17 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish+Kumar+Nanda)(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish+Kumar+Nanda)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <b>CS Undergrad | Web Developer | Free Time Singer</b>
+</p>
 
 
 ---
 
 ## 📫 Contact Me  
 **Email:** **ashish.nanda1902@gmail.com**
-
----
-
-
-<p align="center">
-  <b>CS Undergrad | Web Developer | Free Time Singer</b>
-</p>
 
 ---
 
