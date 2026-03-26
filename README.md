@@ -18,6 +18,13 @@ I love learning new tech, solving problems and bringing ideas to life, preferabl
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Cloud tech" width="35"/> Tech Stacks:
 
 
+## 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c++,java,python,js,react,html,css,tailwind,,node.js,express.js,mongodb,mysql,postman,git,supabase,vercel,render,firebase,docker,aws,redis,jenkins" />
+</p>
+
+<!--
+
 
 ###  Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
