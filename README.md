@@ -46,7 +46,7 @@
 </div>
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishnanda19&show_icons=true&locale=en" alt="Vidhiisaxena" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishnanda19&show_icons=true&locale=en" alt="ashishnanda19" /></p>
 
 ---
 
