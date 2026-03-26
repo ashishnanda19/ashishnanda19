@@ -5,20 +5,24 @@
 </p>
 
 ---
-
 ## 🌐 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/ashishnanda19/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
+
   <a href="https://www.instagram.com/ashish19nanda/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
+
+  <!-- X (Twitter) -->
   <a href="https://x.com/ashish19n" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
   </a>
+
+  <!-- LeetCode -->
   <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
   </a>
 </p>
 
