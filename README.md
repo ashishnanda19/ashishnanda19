@@ -5,33 +5,38 @@
 </p>
 
 ---
+
 ## 🌐 Connect With Me  
 <p align="left">
+  
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashishnanda19/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/ashish19nanda/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
 
-  <!-- X (Twitter) -->
-<a href="https://x.com/ashish19n" target="_blank">
-  <img 
-    src="https://cdn.simpleicons.org/x/000000"
-    width="27"
-    style="background-color:white; padding:6px; border-radius:8px;"
-  />
-</a>
+  <!-- X -->
+  <a href="https://x.com/ashish19n" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/x/ffffff"
+      width="25"
+      style="background-color:#000000; padding:8px; border-radius:10px;"
+    />
+  </a>
 
   <!-- LeetCode -->
   <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
-   <img
-     src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-     width="31.5"
-     style="background-color:grey; padding:4px; border-radius:8px;"
-   />
+    <img 
+      src="https://cdn.simpleicons.org/leetcode/FFA116"
+      width="25"
+      style="background-color:#1e1e1e; padding:8px; border-radius:10px;"
+    />
   </a>
+
 </p>
 
 ---
@@ -47,6 +52,7 @@
 
 
 ---
+
 
 <!--
 
