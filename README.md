@@ -60,7 +60,8 @@
 
 ---
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishnanda19&layout=compact&theme=onedark)
+## Languages Used:
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishnanda19&layout=compact)
 
 ---
 
