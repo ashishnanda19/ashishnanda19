@@ -23,12 +23,12 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashishnanda19/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/ashish19nanda/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
   <!-- X -->
   <a href="https://x.com/ashish19n" target="_blank">
@@ -37,7 +37,7 @@
       width="36"
       style="background-color:#000000; padding:8px; border-radius:10px;"
     />
-  </a>
+  </a>&nbsp;&nbsp;
 
   <!-- LeetCode -->
   <a href="https://www.leetcode.com/ashishnanda19" target="_blank">
