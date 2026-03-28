@@ -1,24 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ashish+Kumar+Nanda)](https://git.io/typing-svg)
+<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+<h1 align="center">Hi 👋, I'm Ashish Kumar Nanda</h1>
+<h3 align="center">I'm into Web dev, AI and ML.</h3> 
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishnanda19&label=Profile%20views&color=6c417c&style=flat" alt="Profile views" />
+</p> -->
+
+<h1 align="center">About Me</h1>
 
 
-<p align="center">
-  <b>CS Undergrad | Web Developer | Free Time Singer</b>
-</p>
+<h3 align="center">I’m passionate about Web Development, AI and Machine Learning. I enjoy building projects, solving real-world problems, and exploring innovative technologies.</h3> 
 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 📫 Contact Me  
-**Email:** **ashish.nanda1902@gmail.com**
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashishnanda19/" target="_blank">
@@ -52,7 +52,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Cloud tech" width="35"/> Tech Stacks: -->
 
@@ -65,7 +64,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Analytics
 
@@ -74,6 +72,20 @@
 </div>
 
 ---
+
+## 📈 <b><i>Contribution Graph</i></b>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishnanda19&theme=tokyonight" />
+</p>
+
+---
+
+Thanks for stopping by! Feel free to explore my projects, star ⭐ what you like, or reach out if you want to collaborate.
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 <!--
 
