@@ -57,8 +57,11 @@
 
 
 ## 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins,arduino" />
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins,arduino&perline=8" 
+  />
 </p>
 
 
