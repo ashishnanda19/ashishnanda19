@@ -8,10 +8,14 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## 📫 Contact Me  
 **Email:** **ashish.nanda1902@gmail.com**
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🌐 Connect With Me  
 <p align="left">
@@ -48,14 +52,26 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <!-- ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Cloud tech" width="35"/> Tech Stacks: -->
 
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins,arduino" />
 </p>
 
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishnanda19&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 ---
 
