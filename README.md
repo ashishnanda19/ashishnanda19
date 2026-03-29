@@ -5,7 +5,7 @@
   <tr>
     <td width="55%" valign="center">
 
-<h1>Hi <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px">, I'm Ashish Kumar Nanda</h1>
+<h1>Hi<img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px">, I'm Ashish Kumar Nanda</h1>
 
 <h4>I'm into Web Development, AI and Machine Learning.</h4>
 
