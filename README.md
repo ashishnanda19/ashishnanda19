@@ -1,18 +1,30 @@
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ashish Kumar Nanda</h1>
-<h3 align="center">I'm into Web dev, AI and ML.</h3> 
+<table>
+  <tr>
+    <td width="55%" valign="center">
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishnanda19&label=Profile%20views&color=6c417c&style=flat" alt="Profile views" />
-</p> -->
+<h1>Hi 👋, I'm Ashish Kumar Nanda</h1>
 
-<h1 align="center">About Me</h1>
+<h3>I'm into Web Development, AI and Machine Learning.</h3>
 
+<br/>
 
-<h3 align="center">I’m passionate about Web Development, AI and Machine Learning. I enjoy building projects, solving real-world problems, and exploring innovative technologies.</h3> 
+<h2>About Me</h2>
 
+<p>
+I’m passionate about Web Development, AI and Machine Learning.<br/>
+I enjoy building projects, solving real-world problems,<br/>
+and exploring innovative technologies.
+</p>
+    </td>
+    <td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -53,9 +65,6 @@
 ---
 
 
-<!-- ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Cloud tech" width="35"/> Tech Stacks: -->
-
-
 ## 🛠️ Languages & Tools  
 
 <p align="center">
@@ -90,97 +99,4 @@ Thanks for stopping by! Feel free to explore my projects, star ⭐ what you like
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 
-<!--
 
-## 📊 GitHub Stats  
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnanda19&layout=compact&theme=tokyonight"/>
-
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ashishnanda19&theme=tokyonight"/>
-
-</div>
-
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishnanda19&show_icons=true&locale=en" alt="ashishnanda19" /></p>
-
----
-
-<!--
-
-###  Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-###  Backend & Dev Tools:
-![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-
-
-###  Deployment & DevOps:
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-
-
-###  Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-
-
-### Machine Learning and Data Science:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-
-<!--
-
-# <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Data charts looping" width="35"/> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashishnanda19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashishnanda19&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnanda19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashishnanda19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashishnanda19&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ashishnanda19&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
--->
