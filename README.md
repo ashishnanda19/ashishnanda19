@@ -7,7 +7,7 @@
 
 <h1>Hi 👋, I'm Ashish Kumar Nanda</h1>
 
-<h3>I'm into Web Development, AI and Machine Learning.</h3>
+<h4>I'm into Web Development, AI and Machine Learning.</h4>
 
 <p align="center">
   <a href="https://github.com/ashishnanda19">
