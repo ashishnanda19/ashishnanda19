@@ -27,7 +27,7 @@ I’m passionate about Web Development, AI and Machine Learning. I enjoy buildin
     </td>
     <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+<img src="https://usersnap.com/blog/wp-content/uploads/2015/12/funny-cat-year2015-web-dev.gif" width="100%" />
     </td>
   </tr>
 </table>
