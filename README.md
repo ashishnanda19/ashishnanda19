@@ -9,14 +9,20 @@
 
 <h3>I'm into Web Development, AI and Machine Learning.</h3>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/ashishnanda19">
+    <img src="https://img.shields.io/github/followers/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
+  </a>
+  <a href="https://github.com/ashishnanda19">
+    <img src="https://img.shields.io/github/stars/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=a9fef7&labelColor=141321" />
+  </a>
+</p>
+
 
 <h2>About Me</h2>
 
 <p>
-I’m passionate about Web Development, AI and Machine Learning.<br/>
-I enjoy building projects, solving real-world problems,<br/>
-and exploring innovative technologies.
+I’m passionate about Web Development, AI and Machine Learning. I enjoy building projects, solving real-world problems, and exploring innovative technologies.
 </p>
     </td>
     <td width="45%" align="center">
