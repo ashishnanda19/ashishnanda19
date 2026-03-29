@@ -43,6 +43,11 @@ I’m passionate about Web Development, AI and Machine Learning. I enjoy buildin
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>&nbsp;&nbsp;
 
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@infernopunch" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+
   <!-- Instagram -->
   <a href="https://www.instagram.com/ashish19nanda/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
