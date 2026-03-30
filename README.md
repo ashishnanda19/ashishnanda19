@@ -80,7 +80,7 @@ I’m passionate about Web Development, AI and Machine Learning. I enjoy buildin
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins,arduino&perline=8" 
+    src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins,selenium,arduino&perline=8" 
   />
 </p>
 
