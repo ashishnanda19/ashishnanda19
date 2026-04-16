@@ -49,7 +49,7 @@ I’m passionate about Web Development, AI and Machine Learning. I enjoy buildin
   </a>&nbsp;&nbsp;
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/ashish19nanda/" target="_blank">
+  <a href="https://www.instagram.com/4shish.json/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>&nbsp;&nbsp;
 
