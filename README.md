@@ -48,6 +48,15 @@ I’m passionate about Web Development, AI and Machine Learning. I enjoy buildin
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="40"/>
   </a>&nbsp;&nbsp;
 
+ <!-- Gmail -->
+  <a href="mailto:ashish.nanda1902@gmail.com" target="_blank">
+    <img 
+      src="https://img.icons8.com/color/48/gmail-new.png"
+      width="45"
+      style="background-color:#ffffff; padding:8px; border-radius:10px;"
+    />
+  </a>&nbsp;&nbsp;
+
   <!-- Instagram -->
   <a href="https://www.instagram.com/4shish.json/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
@@ -68,6 +77,15 @@ I’m passionate about Web Development, AI and Machine Learning. I enjoy buildin
       src="https://cdn.simpleicons.org/leetcode/FFA116"
       width="36"
       style="background-color:#1e1e1e; padding:8px; border-radius:10px;"
+    />
+  </a>&nbsp;&nbsp;
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/ashishnanda19" target="_blank">
+    <img 
+      src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=FFFFFF"
+      width="40"
+      style="background-color:#ffffff; padding:8px; border-radius:6px;"
     />
   </a>
 
