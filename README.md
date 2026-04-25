@@ -99,7 +99,6 @@ Passionate about crafting seamless digital experiences and exploring modern tech
   <img 
     src="video1.gif" 
     width="100%" 
-    style="border-radius: 16px;" 
     alt="Profile Banner"
   />
 </p>
