@@ -18,7 +18,7 @@
 
 <!-- <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> -->
 
-**Software Engineering Undergraduate** from **India**
+**Computer Science Undergraduate** from **India**
 Passionate about crafting seamless digital experiences and exploring modern tech trends.
 
 > ### What I Do ?
