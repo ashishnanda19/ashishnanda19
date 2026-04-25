@@ -21,7 +21,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 
 > ### What I Do ?
 
-* Build responsive web and mobile apps with clean UI/UX.
+* Build creating & responsive web apps with clean UI/UX.
 * Work across the stack using modern tools and frameworks.
 * Learn, create, and share ideas that inspire innovation.
 
