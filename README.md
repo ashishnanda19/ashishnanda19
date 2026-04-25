@@ -1,14 +1,5 @@
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
-</div>
-
 <table>
-  <tr>
-    <td width="55%" valign="center">
-
-<h1>Hi<img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px">, I'm Ashish Kumar Nanda</h1>
-
-<h4>I'm into Web Development, AI and Machine Learning.</h4>
-
+  <td>
 <p align="center">
   <a href="https://github.com/ashishnanda19">
     <img src="https://img.shields.io/github/followers/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
@@ -17,26 +8,36 @@
     <img src="https://img.shields.io/github/stars/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=a9fef7&labelColor=141321" />
   </a>
 </p>
-
-
-<h2>About Me</h2>
-
-<p>
-I’m passionate about Web Development, AI and Machine Learning. I enjoy building projects, solving real-world problems, and exploring innovative technologies.
-</p>
-    </td>
-    <td width="45%" align="center">
-
-<img src="https://usersnap.com/blog/wp-content/uploads/2015/12/funny-cat-year2015-web-dev.gif" width="100%" />
-    </td>
-  </tr>
+  </td>
 </table>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
----
+# I'm **Ashish Kumar Nanda** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
+
+**Software Engineering Undergraduate** from **India**
+Passionate about crafting seamless digital experiences and exploring modern tech trends.
+
+> ### What I Do ?
+
+* Build responsive web and mobile apps with clean UI/UX.
+* Work across the stack using modern tools and frameworks.
+* Learn, create, and share ideas that inspire innovation.
 
 
-## 🌐 Connect With Me  
-<p align="center">
+> ### Tech Stack
+
+<p align="left">
+  <img 
+    src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins,selenium,arduino&perline=9" 
+  />
+</p>
+
+
+> ### Connect with Me
+
+<p align="left">
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashishnanda19/" target="_blank">
@@ -93,39 +94,31 @@ I’m passionate about Web Development, AI and Machine Learning. I enjoy buildin
 
 ---
 
-
-## 🛠️ Languages & Tools  
-
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,postman,git,supabase,vercel,firebase,docker,aws,redis,jenkins,selenium,arduino&perline=8" 
-  />
-</p>
+⭐ *Always learning. Always building.* 
 
 
----
+
+</td>
+<td align="center" width="40%">
+
+<img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+
+</td>
+  </tr>
+</table>
 
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishnanda19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
----
 
-## 📈 <b><i>Contribution Graph</i></b>
+
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishnanda19&theme=radical" />
 </p>
-
----
-
-Thanks for stopping by! Feel free to explore my projects, star ⭐ what you like, or reach out if you want to collaborate.
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
-</div>
-
 
