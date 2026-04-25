@@ -94,6 +94,18 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 
 </p>
 
+> ### Support
+
+<p align="left">
+  <a href="https://buymeachai.ezee.li/ashishnanda19">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me A Chai" 
+      width="150"
+    />
+  </a>
+</p>
+
 </td>
 <td align="center" width="40%">
 
