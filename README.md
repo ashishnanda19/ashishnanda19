@@ -95,7 +95,14 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 </td>
 <td align="center" width="40%">
 
-<img src="image.jpg" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+<p align="center">
+  <img 
+    src="video1.gif" 
+    width="100%" 
+    style="border-radius: 16px;" 
+    alt="Profile Banner"
+  />
+</p>
 
 </td>
   </tr>
