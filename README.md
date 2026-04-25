@@ -92,21 +92,16 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 
 </p>
 
----
-
-⭐ *Always learning. Always building.* 
-
-
-
 </td>
 <td align="center" width="40%">
 
-<img src="6e5d8f696f90636f2af2980ed8ad0081.jpg" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+<img src="download (3).png" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 
 </td>
   </tr>
 </table>
 
+<!--
 
 ##  GitHub Analytics
 
