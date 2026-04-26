@@ -111,7 +111,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 
 <p align="center">
   <img 
-    src="video1.gif" 
+    src="banner.gif" 
     width="100%" 
     alt="Profile Banner"
   />
