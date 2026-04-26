@@ -112,7 +112,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 <p align="center">
   <img 
     src="banner.gif" 
-    width="94%" 
+    width="100%" 
     alt="Profile Banner"
   />
 </p>
