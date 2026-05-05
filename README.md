@@ -2,10 +2,13 @@
   <td>
 <p align="center">
   <a href="https://github.com/ashishnanda19">
+    <img src="https://komarev.com/ghpvc/?username=ashishnanda19&style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
+  </a>
+  <a href="https://github.com/ashishnanda19">
     <img src="https://img.shields.io/github/followers/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
   </a>
   <a href="https://github.com/ashishnanda19">
-    <img src="https://img.shields.io/github/stars/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=a9fef7&labelColor=141321" />
+    <img src="https://img.shields.io/github/stars/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
   </a>
 </p>
   </td>
