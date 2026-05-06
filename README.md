@@ -4,8 +4,8 @@
   <a href="https://github.com/ashishnanda19">
     <img src="https://komarev.com/ghpvc/?username=ashishnanda19&style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
   </a>
-  <a href="https://github.com/ashishnanda19">
-    <img src="https://img.shields.io/github/followers/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
+  <a href="https://github.com/ashishnanda19?tab=followers">
+    <img src="https://img.shields.io/badge/dynamic/json?color=fe428e&labelColor=141321&style=for-the-badge&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fashishnanda19" />
   </a>
   <a href="https://github.com/ashishnanda19">
     <img src="https://img.shields.io/github/stars/ashishnanda19?style=for-the-badge&logo=github&logoColor=white&color=fe428e&labelColor=141321" />
