@@ -124,12 +124,21 @@ Passionate about crafting seamless digital experiences and exploring modern tech
   </tr>
 </table>
 
+> ### Languages Used
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishnanda19&theme=github_dark" />
+</p>
+
+
+<!--
 > ### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishnanda19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+-->
 
 > ### Contribution Graph
 
