@@ -124,11 +124,24 @@ Passionate about crafting seamless digital experiences and exploring modern tech
   </tr>
 </table>
 
+
+## Open Source
+
+**[OpenSRE](https://github.com/Tracer-Cloud/opensre)** (AI SRE agent for incident investigation)
+
+* Fixed a socket leak in the remote-sync layer: storage backends (S3, GCS, Azure, Vercel, Neon) never closed their network clients.
+* Added a `close()` to each backend with client-ownership tracking, plus an optional `SupportsClose` protocol so community providers keep working.
+* Wrote 16 regression tests covering every backend and the sync failure paths. [Merged PR](https://github.com/Tracer-Cloud/opensre/pull/7002)
+
+<!--
+
 > ### Languages Used
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishnanda19&theme=github_dark" />
 </p>
+
+-->
 
 
 <!--
@@ -139,6 +152,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 </div>
 
 -->
+<!--
 
 > ### Contribution Graph
 
@@ -151,6 +165,8 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 <p align="center">
 Thanks for stopping by! Feel free to explore my projects, star ⭐ what you like, or reach out if you want to collaborate.
 </p>
+
+-->
 
 <!--
 
