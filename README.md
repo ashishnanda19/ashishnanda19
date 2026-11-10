@@ -124,7 +124,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
   </tr>
 </table>
 
-
+<!--
 ## Open Source
 
 **[OpenSRE](https://github.com/Tracer-Cloud/opensre)** (AI SRE agent for incident investigation)
@@ -132,6 +132,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 * Fixed a socket leak in the remote-sync layer: storage backends (S3, GCS, Azure, Vercel, Neon) never closed their network clients.
 * Added a `close()` to each backend with client-ownership tracking, plus an optional `SupportsClose` protocol so community providers keep working.
 * Wrote 16 regression tests covering every backend and the sync failure paths. [Merged PR](https://github.com/Tracer-Cloud/opensre/pull/7002)
+-->
 
 <!--
 
